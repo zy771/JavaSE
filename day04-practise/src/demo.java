@@ -5,10 +5,14 @@
  * @name：demo
  * @Date：2025/3/1 22:22
  */
+
+//视频62-66-67
 public class demo {
     public static void main(String[] args) {
 
         System.out.println(calculation(100000, 6, "头等舱"));
+
+        System.out.println(calculation(999, 7, "头等舱"));
 
     }
 
